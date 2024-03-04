@@ -78,6 +78,25 @@ def convert():
             kilograms_to_pounds = result / 2.205
             answer.config(text=kilograms_to_pounds)
 
+
+
+        # OUNCES
+        elif drop_menu1.get() == "Ounces" and drop_menu2.get() == "Millililiters":
+            ounces_to_milliliters = result * 29.574
+            answer.config(text=ounces_to_milliliters)
+
+        elif drop_menu1.get() == "Ounces" and drop_menu2.get() == "Quarts":
+            ounces_to_quarts = result / 32
+            answer.config(text=ounces_to_quarts)
+
+        elif drop_menu1.get() == "Ounces" and drop_menu2.get() == "Cups":
+            ounces_to_cups = result / 8.115
+            answer.config(text=ounces_to_cups)
+
+        elif drop_menu1.get() == "Ounces" and drop_menu2.get() == "Tablespoons":
+            ounces_to_tablespoons = result * 2
+            answer.config(text=ounces_to_tablespoons)
+
         else:
             warning.config(text="Invalid Selection")
 
