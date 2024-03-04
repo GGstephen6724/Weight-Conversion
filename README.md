@@ -1,6 +1,7 @@
 
 Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) 
-[![Scorecard](https://img.shields.io/endpoint?url=(https://securityscorecards.dev/viewer/?uri=github.com%2FGGstephen6724%2FWeight-Conversion))](https://github.com/ossf/scorecard)
+[![Scorecard](https://img.shields.io/endpoint?url=https://securityscorecards.dev/viewer/?uri=github.com%2FGGstephen6724%2FWeight-Conversion)](https://github.com/ossf/scorecard)
+
 
 
 
