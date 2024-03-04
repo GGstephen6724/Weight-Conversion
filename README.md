@@ -1,7 +1,5 @@
 
-Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) 
-
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/GGstephen6724/Weight-Conversion/badge)](https://securityscorecards.dev/viewer/?uri=github.com/GGstephen6724/Weight-Conversion)
+Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/GGstephen6724/Weight-Conversion/badge)](https://securityscorecards.dev/viewer/?uri=github.com/GGstephen6724/Weight-Conversion)
 
 
 # Weight-Conversion
