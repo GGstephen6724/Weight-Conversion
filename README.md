@@ -41,9 +41,5 @@ Contributions are welcome! Please follow these guidelines:
 - Make your changes
 - Submit a pull request
 
- 
- ## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92836017/175224415-c7cef131-d8ff-41c2-81dc-5eecee6f48db.gif)
