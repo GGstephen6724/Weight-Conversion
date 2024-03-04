@@ -13,6 +13,8 @@ User-friendly Interface: The tkinter-based graphical user interface (GUI) makes 
 Time-saving: The app saves users time by providing instant conversions at their fingertips. They no longer need to spend time searching for conversion formulas or performing calculations manually, allowing them to focus on other tasks.
 Accessibility: The app is accessible to a wide range of users, including those who may not be familiar with complex conversion formulas or mathematical concepts. Its intuitive interface makes it accessible to anyone who needs to convert weights in their daily activities.
 
+Overall, the Weight Conversion app offers a convenient, accurate, and user-friendly solution for converting weights between different units, addressing common challenges faced by users when performing weight conversions manually
+
 ## Table of Contents
 
 - [Installation](#installation)
