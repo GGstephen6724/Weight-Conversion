@@ -22,9 +22,9 @@ Overall, the Weight Conversion app offers a convenient, accurate, and user-frien
 - [Contributing](#contributing)
 - [License](#license)
 
-- ## Installation
+- ## Obtaining the Software
 
-1. Clone the repository:
+1. You can obtain the software by cloning the repository using Git:
    ```
    git clone https://github.com/GGstephen6724/Weight-Conversion.git
    ```
@@ -54,6 +54,13 @@ Contributions are welcome! Please follow these guidelines:
 - Create a new branch
 - Make your changes
 - Submit a pull request
+
+## Providing Feedback
+
+We welcome your feedback! If you encounter any bugs or have suggestions for enhancements, please report them by [creating an issue](https://github.com/GGstephen6724/Weight-Conversion/issues) on GitHub.
+
+For general inquiries or discussions, feel free to contact us via email at [ggstephen6724@gmail.com](mailto:ggstephen6724@gmail.com).
+
 
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92836017/175224415-c7cef131-d8ff-41c2-81dc-5eecee6f48db.gif)
