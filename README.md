@@ -71,3 +71,6 @@ For general inquiries or discussions, feel free to contact us via email at [ggst
 
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/92836017/175224415-c7cef131-d8ff-41c2-81dc-5eecee6f48db.gif)
+
+Latest Version: v1.0.0 
+Released: March 4 2024
