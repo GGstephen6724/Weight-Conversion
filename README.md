@@ -1,7 +1,5 @@
 
-[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599)
-or by embedding this in your HTML:
-<a href="https://www.bestpractices.dev/projects/8599"><img src="https://www.bestpractices.dev/projects/8599/badge"></a>
+Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599)
 
 # Weight-Conversion
 This program is a simple Weight Conversion app made with tkinter. 
