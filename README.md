@@ -1,5 +1,6 @@
 
 Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) 
+[![OpenSSF Scorecard](https://img.shields.io/endpoint?url=https://scorecard.ossf.dev/badge/github.com/GGstephen6724/Weight-Conversion)](https://scorecard.ossf.dev/report)
 
 
 
