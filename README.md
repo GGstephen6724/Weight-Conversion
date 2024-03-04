@@ -1,5 +1,6 @@
 
 Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) 
+[![Scorecard](https://img.shields.io/endpoint?url=<SCORECARD_BADGE_URL>)](https://github.com/ossf/scorecard)
 
 
 # Weight-Conversion
