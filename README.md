@@ -52,7 +52,7 @@ Contributions are welcome! Please follow these guidelines:
 
 - Fork the repository
 - Create a new branch
-- Make your changes
+- Make your changes and contact us via email at [ggstephen6724@gmail.com]
 - Submit a pull request
 
 ## Providing Feedback
