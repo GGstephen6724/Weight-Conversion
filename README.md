@@ -22,6 +22,13 @@ Overall, the Weight Conversion app offers a convenient, accurate, and user-frien
 - [Contributing](#contributing)
 - [License](#license)
 
+
+## Coding Standards
+
+For coding standards and guidelines, please refer to our [Coding Standards Document](https://github.com/ggstephen6724/Weight-Conversion/blob/main/coding_standards.md).
+
+
+
 - ## Obtaining the Software
 
 1. You can obtain the software by cloning the repository using Git:
