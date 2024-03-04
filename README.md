@@ -1,6 +1,5 @@
 
-Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599)
-
+Code: [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8599/badge)](https://www.bestpractices.dev/projects/8599) [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/{owner}/{repo}/badge)](https://securityscorecards.dev/viewer/?uri=github.com/{owner}/{repo})
 
 # Weight-Conversion
 This program is a simple Weight Conversion app made with tkinter. 
